@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates id="template" xml:space="preserve">
+	<t t-extend="PaymentScreenWidget" >
+        <t t-jquery=".pos-payment-container" t-operation="append">
+           <div class="pos-order-note-div">
+			   <br />
+			   <div>
+				   <span class="label">Notes:</span>
+				</div>   
+                <input class="pos-order-note"/>
+            </div>
+           
+        </t>
+    </t>
+	
+</templates>
