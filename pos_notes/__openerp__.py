@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Order Notes in Point of Sale interface',
+    'name': 'Order Notes in Point of Sale Interface',
     'version': '1.0.0',
     'category': 'Point Of Sale',
     'sequence': 6,
